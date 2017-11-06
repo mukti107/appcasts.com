@@ -2,6 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="882e70e2-eaa4-4648-9e78-2abc4bd3090a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-left-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-no-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-right-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coming-soon-dark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coming-soon-light.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-app-intro-dark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-app-intro-light.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-scroll-slideshow-gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-scroll-slideshow-opacity.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-scroll-slideshow-parallax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-scroll-slideshow-rotate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/home-scroll-slideshow-scale.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-grid-boxed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-grid-fullwidth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/single-left-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/single-no-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/single-right-sidebar.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -52,8 +71,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="85" column="25" lean-forward="false" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+            <state relative-caret-position="170">
+              <caret line="92" column="17" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -63,40 +82,10 @@
                 <element signature="n#style#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#section#12;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#31420#31425#0" expanded="true" />
+                <element signature="e#31411#31416#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#41682#41688#0" expanded="true" />
+                <element signature="e#41673#41679#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pricing.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pricing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="978">
-              <caret line="353" column="29" lean-forward="true" selection-start-line="300" selection-start-column="4" selection-end-line="353" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="browserconfig.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/browserconfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -121,8 +110,9 @@
       <find>Get</find>
       <find>favi</find>
       <find>contai</find>
-      <find>Buy</find>
       <find>intro</find>
+      <find>learn how</find>
+      <find>Buy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -229,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509885029881</updated>
-      <workItem from="1509885031773" duration="3190000" />
+      <workItem from="1509885031773" duration="3777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3431000" />
+    <option name="totallyTimeSpent" value="4018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
@@ -307,9 +297,9 @@
             <element signature="n#style#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#12;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#31420#31425#0" expanded="true" />
+            <element signature="e#31411#31416#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41682#41688#0" expanded="true" />
+            <element signature="e#41673#41679#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -513,14 +503,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -529,18 +511,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="978">
-          <caret line="353" column="29" lean-forward="true" selection-start-line="300" selection-start-column="4" selection-end-line="353" selection-end-column="29" />
+        <state relative-caret-position="152">
+          <caret line="303" column="19" lean-forward="true" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="85" column="25" lean-forward="false" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+        <state relative-caret-position="170">
+          <caret line="92" column="17" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -550,9 +540,9 @@
             <element signature="n#style#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#12;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#31420#31425#0" expanded="true" />
+            <element signature="e#31411#31416#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41682#41688#0" expanded="true" />
+            <element signature="e#41673#41679#0" expanded="true" />
           </folding>
         </state>
       </provider>
