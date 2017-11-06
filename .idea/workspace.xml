@@ -52,8 +52,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="152" column="83" lean-forward="true" selection-start-line="152" selection-start-column="83" selection-end-line="152" selection-end-column="83" />
+            <state relative-caret-position="141">
+              <caret line="130" column="77" lean-forward="false" selection-start-line="130" selection-start-column="77" selection-end-line="130" selection-end-column="77" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -63,9 +63,9 @@
                 <element signature="n#style#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#section#12;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#31411#31416#0" expanded="true" />
+                <element signature="e#31231#31236#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#41673#41679#0" expanded="true" />
+                <element signature="e#41493#41499#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -200,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509885029881</updated>
-      <workItem from="1509885031773" duration="4211000" />
+      <workItem from="1509885031773" duration="4407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4452000" />
+    <option name="totallyTimeSpent" value="4648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
@@ -278,9 +278,9 @@
             <element signature="n#style#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#12;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#31411#31416#0" expanded="true" />
+            <element signature="e#31231#31236#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41673#41679#0" expanded="true" />
+            <element signature="e#41493#41499#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -510,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="152" column="83" lean-forward="true" selection-start-line="152" selection-start-column="83" selection-end-line="152" selection-end-column="83" />
+        <state relative-caret-position="141">
+          <caret line="130" column="77" lean-forward="false" selection-start-line="130" selection-start-column="77" selection-end-line="130" selection-end-column="77" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -521,9 +521,9 @@
             <element signature="n#style#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#12;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#31411#31416#0" expanded="true" />
+            <element signature="e#31231#31236#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#41673#41679#0" expanded="true" />
+            <element signature="e#41493#41499#0" expanded="true" />
           </folding>
         </state>
       </provider>
